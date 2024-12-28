@@ -22,7 +22,9 @@ program should allow the user to input grades for different subjects or
 assignments, calculate the average grade, and display the overall
 grade along with any additional information (such as letter grade or
 GPA).
+
 **KEY ACTIVITIES**
+ 
  Create a StudentGradeTracker object
 
  Add grades for different subjects
@@ -39,3 +41,6 @@ GPA).
 
 **TECHNOLOGIES USED**
   PYTHON 
+
+**OUTPUT**
+![Screenshot (9)](https://github.com/user-attachments/assets/32ba2f8d-aaa4-4165-b0bf-9e57922a4490)
